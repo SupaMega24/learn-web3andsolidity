@@ -4,6 +4,7 @@ seoDescription: "Learn about Solidity functions and take a short quiz to test yo
 datePublished: Sat Sep 16 2023 15:04:23 GMT+0000 (Coordinated Universal Time)
 cuid: clmm5sz7l000a09id9fm3hue6
 slug: solidity-functions
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1694876852361/d99d94fd-0c6a-443d-8271-17414dee9bf6.png
 tags: learning, solidity, solidity-basics, learn-solidity
 
 ---
