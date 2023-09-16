@@ -164,3 +164,129 @@ They help avoid code duplication. For example, a Math library for safe math oper
 # Conclusion
 
 These are some of the core components that make up a contract's structure and logic in Solidity. By understanding these building blocks, we can start architecting more complex smart contracts. I will be expanding on these components in future posts as I learn more about them.
+
+### **Quiz**
+
+Let's check what we've learned. Answers are at the bottom.
+
+**Question 1:** What are state variables in Solidity?
+
+A. Variables declared inside functions.
+
+B. Variables used for temporary storage during function execution.
+
+C. Values permanently stored in contract storage.
+
+D. Variables declared in modifiers.
+
+**Question 2:** Which data structure is commonly used to store token or ETH balances for different addresses?
+
+A. Arrays
+
+B. Structs
+
+C. Mappings
+
+D. Enums
+
+**Question 3:** What is the purpose of structs in Solidity?
+
+A. To restrict access to specific functions.
+
+B. To group variables together into a custom data type.
+
+C. To compute values without modifying state.
+
+D. To define inheritance relationships.
+
+**Question 4:** Which function type in Solidity is read-only and does not modify the contract's state?
+
+A. Public function
+
+B. Private function
+
+C. View function
+
+D. Pure function
+
+**Question 5:** What is the primary role of constructors in Solidity, as mentioned in the text?
+
+A. To restrict access to specific functions.
+
+B. To emit events when certain conditions are met.
+
+C. To initialize contract state when deployed.
+
+D. To define reusable chunks of code.
+
+**Question 6:** What is the purpose of events in Solidity?
+
+A. To modify contract state.
+
+B. To store and retrieve data.
+
+C. To notify external applications of specific contract actions.
+
+D. To restrict access to certain functions.
+
+**Question 7:** What are modifiers in Solidity, and what can they be used for?
+
+A. Reusable chunks of code for contract deployment.
+
+B. Functions that modify state variables.
+
+C. Logic that restricts access to functions, validates inputs, and more.
+
+D. A type of contract that inherits from other contracts.
+
+**Question 8:** In Solidity, what does the "onlyOwner" modifier typically restrict access to?
+
+A. Public functions
+
+B. Private functions
+
+C. View functions
+
+D. Pure functions
+
+**Question 9:** How can contracts in Solidity inherit variables and functions from other contracts?
+
+A. By importing the other contract's code directly.
+
+B. By defining a new contract inside an existing one.
+
+C. By using the "is" keyword and specifying the parent contract.
+
+D. By creating a library that contains the desired functionality.
+
+**Question 10:** What is the purpose of libraries?
+
+A. To restrict access to specific functions.
+
+B. To provide a way to organize state variables.
+
+C. To contain reusable logic that can be shared between multiple contracts.
+
+D. To define custom data types for contract variables.
+
+<mark>Answers:</mark>
+
+1. C
+    
+2. C
+    
+3. B
+    
+4. C
+    
+5. C
+    
+6. C
+    
+7. C
+    
+8. A
+    
+9. C
+    
+10. C
