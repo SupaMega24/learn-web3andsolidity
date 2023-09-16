@@ -251,3 +251,71 @@ Here are some examples of state variables that I have encountered in my learning
     
 
 These are some very basic examples. I hope to become more fluent in Solidity coding through practice, reviewing my notes above, and engaging in other communities sush as Alchemy and Daily Devs. As always, constructive criticism is welcome. I'm sure I've made some learning points above. See you in the next post.
+
+### **Quiz**
+
+Before we go...
+
+Here are 5 questions to help solidify our learning:
+
+**Question 1:** What is the primary role of state variables in Solidity?
+
+A. To store data temporarily during a function's execution.
+
+B. To represent and store data persistently on the Ethereum blockchain.
+
+C. To define local variables within a function.
+
+D. To manage gas fees in smart contracts.
+
+**Question 2:** Where are state variables declared?
+
+A. Inside a specific function.
+
+B. At the contract level.
+
+C. In a modifier.
+
+D. In an event.
+
+**Question 3:** What does the "public" access modifier mean when applied to a state variable in Solidity?
+
+A. It restricts access to within the contract.
+
+B. It allows external entities to modify the state variable.
+
+C. It makes the state variable read-only.
+
+D. It enables external contracts and users to read the state variable.
+
+**Question 4:** According to the text, what happens to state variables between function calls?
+
+A. They are reset to their default values.
+
+B. They persist and maintain their values.
+
+C. They become immutable.
+
+D. They are deleted from the blockchain.
+
+**Question 5:** How is the "constructor" function in Solidity described in the text?
+
+A. To modify state variables.
+
+B. To define external functions.
+
+C. To initialize state variables and perform setup tasks.
+
+D. To return values to the caller.
+
+<mark>Answers:</mark>
+
+1. B
+    
+2. B
+    
+3. D
+    
+4. B
+    
+5. C
