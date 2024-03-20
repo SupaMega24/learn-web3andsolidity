@@ -34,7 +34,7 @@ In the following sections, we will explore real-world examples that demonstrate 
 **Code Example:**
 
 ```javascript
-javascriptCopy codeconst studentScores = [85, 60, 92, 45, 75];
+const studentScores = [85, 60, 92, 45, 75];
 const passingScores = studentScores.filter(score => score > 70);
 console.log(passingScores); // Output: [85, 92, 75]
 ```
@@ -61,7 +61,7 @@ console.log(passingScores); // Output: [85, 92, 75]
 **Code Example:**
 
 ```javascript
-javascriptCopy codeconst lotteryNumbers = [7, 22, 14, 5, 36];
+const lotteryNumbers = [7, 22, 14, 5, 36];
 const winningNumbers = lotteryNumbers.filter(num => num % 2 === 0);
 console.log(winningNumbers); // Output: [22, 14, 36]
 ```
@@ -88,7 +88,7 @@ console.log(winningNumbers); // Output: [22, 14, 36]
 **Code Example:**
 
 ```javascript
-javascriptCopy codeconst products = [
+const products = [
   { name: 'Laptop', inStock: true },
   { name: 'Smartwatch', inStock: false },
   { name: 'Headphones', inStock: true }
@@ -121,7 +121,7 @@ console.log(inStockProducts);
 **Code Example:**
 
 ```javascript
-javascriptCopy codeconst words = ['apple', 'banana', 'orange', 'kiwi', 'strawberry'];
+const words = ['apple', 'banana', 'orange', 'kiwi', 'strawberry'];
 const longWords = words.filter(word => word.length > 5);
 console.log(longWords); // Output: ['banana', 'orange', 'strawberry']
 ```
