@@ -284,7 +284,7 @@ event TeamChosen(address indexed manager, uint256 teamId);
 * `TeamChosen`: Declared when a manager makes their choice, marking the moment of commitment.
     
 
-***Curiosity Question: What is the***`indexed`***keyword in the arguments?***
+***Curiosity Question: What is the*** `indexed`***keyword in the arguments?***
 
 In Solidity, the `indexed` keyword in event arguments is used to enable these arguments to be searchable and filterable when looking through blockchain logs. When an argument is indexed, it creates a topic that logs can be indexed by, which allows for efficient querying. You can have up to three indexed arguments in an event.
 
