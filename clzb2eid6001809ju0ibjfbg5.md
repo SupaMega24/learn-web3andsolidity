@@ -125,6 +125,8 @@ Let’s dive into the two-phase lifecycle of transactions in zkSync, which ensur
 
 The validation phase ensures that all transactions are checked for correctness and are ready for processing. Here’s a step-by-step breakdown:
 
+***NOTE: I learned the following breakdown in my course at*** [***CyfrinUpdraft***](https://updraft.cyfrin.io/)***.***
+
 **1\. Transaction Submission:**
 
 The user initiates the transaction through the “zkSync API client,” which acts as a lightweight node that interacts with zkSync’s infrastructure. This client submits the transaction for validation.
