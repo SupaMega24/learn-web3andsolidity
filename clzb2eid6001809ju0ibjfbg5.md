@@ -8,11 +8,11 @@ tags: learning, solidity, web3, smart-contracts, account-abstraction
 
 ---
 
-### Benefits of Account Abstraction  
+### Benefits of Account Abstraction
 
 Welcome, everyone! Today, we're diving into the fascinating world of **Account Abstraction**, a concept that's gaining traction in the realm of web3 development.
 
-**If you already have a good idea about what it is and want to learn how to build it, then you can** [**jump straight to the free course here on CyfrinUpdraft**](https://updraft.cyfrin.io/)**.**
+**If you already have a good idea about what it is and want to learn how to build it, then you can**[**jump straight to the free course here on CyfrinUpdraft**](https://updraft.cyfrin.io/)**.**
 
 Think of it as a toolkit that can make using blockchain systems easier, more flexible, and more secure. But why is it so beneficial? Let’s break it down.
 
@@ -37,7 +37,7 @@ Security is a huge deal in the blockchain world. With account abstraction, you c
 
 **3\. Better User Experience**
 
-Let’s be honest, interacting with blockchain can sometimes be a bit daunting, especially for newcomers. Account abstraction can simplify this process. It allows for features like meta-transactions, where a third party can pay for your transaction fees, making the experience smoother and more user-friendly. Think of it as going to a theme park where someone else buys your tickets – you just enjoy the rides.
+Let’s be honest, interacting with the blockchain can sometimes be a bit daunting, especially for newcomers. Account abstraction can simplify this process. It allows for features like meta-transactions, where a third party can pay for your transaction fees, making the experience smoother and more user-friendly. Think of it as going to a theme park where someone else buys your tickets – you just enjoy the rides.
 
 **4\. Interoperability**
 
