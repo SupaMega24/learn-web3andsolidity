@@ -119,13 +119,13 @@ It's important to note that transactions in zkSync have a lifecycle or phases th
 
 Let’s dive into the two-phase lifecycle of transactions in zkSync, which ensures efficient, secure, and reliable processing of transactions. We’ll break it down into two key phases: Validation and Execution.
 
+***NOTE: I learned the following breakdown in my course at*** [***CyfrinUpdraft***](https://updraft.cyfrin.io/)***.***
+
 ---
 
 **Phase 1: Validation**
 
 The validation phase ensures that all transactions are checked for correctness and are ready for processing. Here’s a step-by-step breakdown:
-
-***NOTE: I learned the following breakdown in my course at*** [***CyfrinUpdraft***](https://updraft.cyfrin.io/)***.***
 
 **1\. Transaction Submission:**
 
