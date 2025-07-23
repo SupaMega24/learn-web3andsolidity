@@ -20,19 +20,19 @@ How does Ethereum keep continuously improving and evolving over time? It all sta
 
 **What exactly are EIPs?**
 
-Think of **Ethereum Improvement Proposals (EIPs)** like blueprints for upgrading Ethereum. They're like a group project where someone says, "Hey, here's an idea to make things better!" That idea could be anything from a minor tweak to a massive overhaul. If you’ve ever worked on a team project where someone suggests a new approach to doing something—like switching to a shared online document instead of emailing everyone individually—that’s basically what an EIP is for the Ethereum network.
+Think of **Ethereum Improvement Proposals (EIPs)** like blueprints for upgrading Ethereum. They're like a group project where someone says, "Hey, here's an idea to make things better!" That idea could be anything from a minor tweak to a massive overhaul. If you’ve ever worked on a team project where someone suggests a new approach to doing something, like switching to a shared online document instead of emailing everyone individually, that’s basically what an EIP is for the Ethereum network.
 
 ---
 
 **Why should I care about EIPs?**
 
-EIPs are the building blocks of Ethereum's evolution. Imagine you're playing your favorite video game, and every few months, there’s an update that adds new levels, fixes bugs, or gives your character new powers. That’s what EIPs do for Ethereum—they keep it fresh, secure, and better to use. Without EIPs, the network could get stuck with outdated systems and vulnerabilities, which is like still using dial-up internet in the age of fiber optics. Not fun, right?
+EIPs are the building blocks of Ethereum's evolution. Imagine you're playing your favorite video game, and every few months, there’s an update that adds new levels, fixes bugs, or gives your character new powers. That’s what EIPs do for Ethereum. They keep it fresh, secure, and better to use. Without EIPs, the network could get stuck with outdated systems and vulnerabilities, which is like still using dial-up internet in the age of fiber optics. Not fun, right?
 
 ---
 
 **How will EIPs help me as a future smart contract developer or security researcher?**
 
-If you're aiming to build smart contracts or break into Ethereum security research, understanding EIPs is like knowing the rulebook before you start playing the game. For developers, EIPs lay out the tools and standards you'll use to create smart contracts—it's like knowing what all the power-ups in a game do before you start playing. For security researchers, knowing EIPs helps you spot potential vulnerabilities and understand how changes to the network affect security. In a way, it’s like learning the blueprint of a building before you go in to make sure it’s structurally sound.
+If you're aiming to build smart contracts or break into Ethereum security research, understanding EIPs is like knowing the rulebook before you start playing the game. For developers, EIPs lay out the tools and standards you'll use to create smart contracts. It's like knowing what all the power-ups in a game do before you start playing. For security researchers, knowing EIPs helps you spot potential vulnerabilities and understand how changes to the network affect security. In a way, it’s like learning the blueprint of a building before you go in to make sure it’s structurally sound.
 
 ---
 
@@ -58,12 +58,12 @@ EIP Status Terms are like the different stages of development that an idea goes 
 ### 4\. **Last Call**
 
 **Meaning:** The EIP has been reviewed, revised, and is now in its final stage before it becomes official. If necessary changes are required, it will revert the EIP to Review.  
-**Example:** This is like the final round of beta testing before your app goes live—everything’s been tweaked, and you’re just making sure no last-minute issues pop up. EIP-20 (ERC-20 token standard) reached this point after extensive community discussion.
+**Example:** This is like the final round of beta testing before your app goes live. Everything’s been tweaked, and you’re just making sure no last-minute issues pop up. EIP-20 (ERC-20 token standard) reached this point after extensive community discussion.
 
 ### 5\. **Final**
 
 **Meaning:** The EIP has successfully passed all reviews, and the community accepts it as official. It’s now part of Ethereum.  
-**Example:** This is the app release stage—it’s officially live for everyone to use. For instance, EIP-20 (ERC-20 token standard) became final and is now the foundation for many tokens on Ethereum.
+**Example:** This is the app release stage. It’s officially live for everyone to use. For instance, EIP-20 (ERC-20 token standard) became final and is now the foundation for many tokens on Ethereum.
 
 ### 6\. **Stagnant**
 
@@ -141,7 +141,7 @@ Ready for a challenge? Test your knowledge with our matching quiz:
 * If you’re correct, both cards will **disappear**. If not, try again until you get it right!
     
 
-Keep going until all the cards are gone—this game will help you lock in those terms for good!
+Keep going until all the cards are gone. This game will help you lock in those terms for good!
 
 [Challenge yourself here!](https://quizlet.com/933290054/match?funnelUUID=f5ca5c2d-6f28-4cc7-a5bd-3116d716903a)
 
@@ -160,5 +160,3 @@ To deepen your understanding of Ethereum development and security, be sure to ch
 [Cyfrin Updraft Courses](https://updraft.cyfrin.io/) - Learn for free at your own pace.
 
 [Ethereum EIP GitHub Repo](https://github.com/ethereum/EIPs/blob/master/EIPS/eip-1.md) - Straight from the horse's mouth!
-
-[PDF of this Post](https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:01fa9052-731a-4366-90a2-07b53df4d4e4) - Take it with you to read off-line.
