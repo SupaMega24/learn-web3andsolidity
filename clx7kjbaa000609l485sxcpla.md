@@ -18,7 +18,7 @@ The ***Random Fantasy Team Name Selector*** does not merely pick a name; it orch
 
 In this series of posts, we will dive into creating a decentralized application using Solidity, the programming language for writing smart contracts on the Ethereum blockchain. Our project currently consists of two main contracts: `RandomTeamSelector` and `TeamNames`. Both of these contracts leverage [Chainlink's Verifiable Random Function (VRF)](https://chain.link/vrf) to ensure secure and verifiable randomness, essential for fair and unpredictable outcomes in our application.
 
-The `RandomTeamSelector` contract is designed to randomly assign team names to participants using names commonly associate with mythical and fantasy creatures. Using Chainlink VRF, this contract can request random values that are used to select from a predefined list of team names. The `TeamNames` contract holds the list of possible team names and provides a function to retrieve a name based on an index.
+The `RandomTeamSelector` contract is designed to randomly assign team names to participants using names commonly associated with mythical and fantasy creatures. Using Chainlink VRF, this contract can request random values that are used to select from a predefined list of team names. The `TeamNames` contract holds the list of possible team names and provides a function to retrieve a name based on an index.
 
 Chainlink VRF is a reliable source of randomness for smart contracts. It provides cryptographic proof that the random values generated are tamper-proof and verifiably fair. By integrating Chainlink VRF into our Solidity contracts, we ensure that our random team selections are unbiased and transparent.
 
@@ -307,7 +307,7 @@ Collectively, the elements in this section form the backbone of the *Random Fant
 
 # **Conclusion**
 
-Phew! We've covered a lot so far on our journey. We looked at how the project is set up in Foundry using `forge init` and how chainlink contracts were installed using `forge install` (although their documentation has an alternative to this). We covered the imports and how the contract is set up with it's core elements such as state variables, mappings, and events. Their were also a few ***curious questions*** along the way for those of us, like me, who need a bit more understanding about how things work.
+Phew! We've covered a lot so far on our journey. We looked at how the project is set up in Foundry using `forge init` and how Chainlink contracts were installed using `forge install` (although their documentation has an alternative to this). We covered the imports and how the contract is set up with it's core elements such as state variables, mappings, and events. There were also a few ***curious questions*** along the way for those of us, like me, who need a bit more understanding about how things work.
 
 Thank you for reading! Here is what to expect with the rest of the series.
 
@@ -324,7 +324,7 @@ Thank you for reading! Here is what to expect with the rest of the series.
 * Part 7: Front-end
     
 
-[The code lives here, on Github.](https://github.com/SupaMega24/fantasy-team-vrf)
+[The code lives here, on GitHub.](https://github.com/SupaMega24/fantasy-team-vrf)
 
 # **References**
 
@@ -332,7 +332,7 @@ Here are a list of references and materials I have used.
 
 [Chainlink VRF Homepage](https://chain.link/vrf)
 
-[Chainlinl VRF Supscription App](https://vrf.chain.link/)
+[Chainlink VRF Subscription App](https://vrf.chain.link/)
 
 [Chainlink Docs](https://docs.chain.link/vrf)
 
